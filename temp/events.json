@@ -9,7 +9,9 @@
  },
  {
   "name": "Self Review",
-  "used": [],
+  "used": [
+   "2020-12-17T21:01:35.694Z"
+  ],
   "hide": false,
   "starred": false,
   "type": "pomodoro",

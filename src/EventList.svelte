@@ -1,6 +1,6 @@
 <script>
 	
-	let DEBUG_LOADING = false;
+	let DEBUG_LOADING = true;
 	let DEBUG_MSG = false;
 	let EDIT_FULL = false;
 
